@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-WORKER_URL = "https://plain-rain-8e41.zhtamim000.workers.dev/"
+WORKER_URL = "https://quiet-math-98cd.zhtamim000.workers.dev/"
 
 def shorten_with_worker(original_url):
     try:
